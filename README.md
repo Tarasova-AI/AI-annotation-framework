@@ -1,49 +1,49 @@
 # AI-ready Annotation Framework  
-*A UX-first system for reliable, multilingual, and model-aligned annotation*
+*A modular, UX-oriented system for training reliable and interpretable LLMs*
 
 ---
 
 ## 🎯 What is this?
 
-This is a modular, reusable annotation framework built for AI teams working with large language models (LLMs).  
-It teaches annotators and designers to shift from “editing text” to **designing what the model sees and learns**.
+This is a full-stack annotation framework for teams building or managing high-quality datasets for LLMs.  
+It brings together annotation strategy, UX design, multilingual workflows, quality control, and prompt-assisted automation.
+
+You can use it as:
+
+- A training system for annotators and reviewers  
+- A reference architecture for annotation pipeline design  
+- A portfolio-ready showcase of scalable, human-in-the-loop data thinking
 
 ---
 
 ## 🧠 Why it matters
 
-Most annotation mistakes are not about the wrong label —  
-they're about the wrong mental model of how LLMs interpret input.
+Most annotation guidelines focus on surface tags.  
+This framework focuses on what matters to the model:
 
-This framework helps teams:
-
-- ✅ Reduce hallucinations and logic loss  
-- ✅ Handle multilingual token differences  
-- ✅ Train annotators to think like the model  
-- ✅ Scale QA and onboarding with reusable blocks
-
----
-
-## 👥 Who it’s for
-
-- Annotation teams working with LLMs  
-- Multilingual data labeling workflows  
-- UX/content experts supporting AI products  
-- Engineers and reviewers managing fine-tuning pipelines
+- Token alignment  
+- Interpretability under context windows  
+- Cultural ambiguity  
+- Model-visible structures  
+- Sustainable review and QA loops
 
 ---
 
-## 📦 Structure
+## 📦 Framework structure
 
-| File               | What it covers                                |
-|--------------------|------------------------------------------------|
-| `01_Principles.md` | Core mindset shift: how to annotate for models |
-| `02_Taxonomy.md`   | Tag structure, granularity, and disambiguation |
-| `03_EdgeCases.md`  | Cultural nuance, ambiguity, and decision trees |
-| `04_Onboarding.md` | Training path, microcases, QA support          |
-| `LICENSE`          | CC BY-NC 4.0 License and author info           |
+The framework is modular. Each block can stand alone — but together, they form a complete pipeline.
 
-(Next files will be added as the framework evolves.)
+| File                                               | What it covers                                                                 |
+|----------------------------------------------------|---------------------------------------------------------------------------------|
+| [`01_Principles.md`](./01_Principles.md)           | Core mindset shift: how to annotate for models, not humans                      |
+| [`02_Taxonomy.md`](./02_Taxonomy.md)               | Tag structure, specificity, and resolving label conflicts                       |
+| [`03_EdgeCases.md`](./03_EdgeCases.md)             | Decision logic for ambiguous, cultural, or overlapping cases                    |
+| [`04_Onboarding.md`](./04_Onboarding.md)           | UX-based training for annotators using examples and microcases                  |
+| [`05_Multilingual.md`](./05_Multilingual.md)       | Token-aware, culturally sensitive annotation for multilingual data              |
+| [`06_QA_and_Review.md`](./06_QA_and_Review.md)     | Structured quality control and reviewer consistency                             |
+| [`07_Scaling_and_Collaboration.md`](./07_Scaling_and_Collaboration.md) | How to grow annotation teams and align with PMs and engineers       |
+| [`08_Prompting_and_Automation.md`](./08_Prompting_and_Automation.md) | Prompt-driven annotation and semi-automated workflows                 |
+| [`LICENSE`](./LICENSE)   
 
 ---
 
