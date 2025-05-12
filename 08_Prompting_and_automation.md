@@ -1,4 +1,4 @@
-# Prompt-Driven Annotation and Semi-Automation
+# Prompt-driven annotation and semi-automation
 *How to scale human-in-the-loop systems without losing quality*
 
 ---
