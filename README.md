@@ -37,12 +37,12 @@ The framework is modular. Each block can stand alone — but together, they form
 |----------------------------------------------------|---------------------------------------------------------------------------------|
 | [`01_Principles.md`](./01_Principles.md)           | Core mindset shift: how to annotate for models, not humans                      |
 | [`02_Taxonomy.md`](./02_Taxonomy.md)               | Tag structure, specificity, and resolving label conflicts                       |
-| [`03_EdgeCases.md`](./03_EdgeCases.md)             | Decision logic for ambiguous, cultural, or overlapping cases                    |
+| [`03_Edge_cases.md`](./03_Edge_cases.md)             | Decision logic for ambiguous, cultural, or overlapping cases                    |
 | [`04_Onboarding.md`](./04_Onboarding.md)           | UX-based training for annotators using examples and microcases                  |
 | [`05_Multilingual.md`](./05_Multilingual.md)       | Token-aware, culturally sensitive annotation for multilingual data              |
-| [`06_QA_and_Review.md`](./06_QA_and_Review.md)     | Structured quality control and reviewer consistency                             |
-| [`07_Scaling_and_Collaboration.md`](./07_Scaling_and_Collaboration.md) | How to grow annotation teams and align with PMs and engineers       |
-| [`08_Prompting_and_Automation.md`](./08_Prompting_and_Automation.md) | Prompt-driven annotation and semi-automated workflows                 |
+| [`06_QA_and_review.md`](./06_QA_and_review.md)     | Structured quality control and reviewer consistency                             |
+| [`07_Scaling_and_collaboration.md`](./07_Scaling_and_collaboration.md) | How to grow annotation teams and align with PMs and engineers       |
+| [`08_Prompting_and_automation.md`](./08_Prompting_and_automation.md) | Prompt-driven annotation and semi-automated workflows                 |
 | [`LICENSE`](./LICENSE)   
 
 ---
