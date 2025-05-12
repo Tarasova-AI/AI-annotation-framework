@@ -1,4 +1,4 @@
-# UX-Oriented Onboarding for Annotation Teams  
+# UX-Oriented onboarding for annotation teams  
 *A repeatable, logic-driven training module for LLM-facing workflows*
 
 ---
