@@ -1,4 +1,4 @@
-# Annotating Across Languages: Token-aware, Culture-aware, Model-aware  
+# Annotating across languages: token-aware, culture-aware, model-aware  
 *A practical guide for multilingual annotation workflows*
 
 ---
