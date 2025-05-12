@@ -1,4 +1,4 @@
-# AI-ready Annotation Framework  
+# AI-ready annotation framework  
 *A modular, UX-oriented system for training reliable and interpretable LLMs*
 
 ---
