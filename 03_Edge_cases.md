@@ -1,4 +1,4 @@
-# Handling Ambiguity and Conflict in Annotation  
+# Handling ambiguity and conflict in annotation  
 *Decision logic for cases that don’t fit the rules*
 
 ---
