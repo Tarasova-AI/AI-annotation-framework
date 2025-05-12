@@ -1,4 +1,4 @@
-# Core Principles of Model-Aware Annotation  
+# Core principles of model-aware annotation  
 *A UX-first foundation for training reliable LLMs*
 
 ---
