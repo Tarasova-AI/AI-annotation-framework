@@ -1,4 +1,4 @@
-# Building Tagging Systems That Models Understand  
+# Building tagging systems that models understand  
 *A practical structure for scalable, interpretable annotation*
 
 ---
