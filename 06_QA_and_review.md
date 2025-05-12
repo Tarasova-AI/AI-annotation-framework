@@ -1,4 +1,4 @@
-# Quality Assurance in Annotation: Precision, Agreement, Feedback Loops  
+# Quality assurance in annotation: precision, agreement, feedback loops  
 *A practical system for validating, refining, and scaling annotation quality*
 
 ---
